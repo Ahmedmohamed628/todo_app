@@ -1,0 +1,21 @@
+{
+"app_title" : "قائمة الأحتياجات",
+"task_list" : "قائمة المهام",
+"settings" : "الأعدادات",
+"task_title" : "عنوان المهمة",
+"description" : "الوصف",
+"add_new_task" : "اضف مهمة جديدة",
+"enter_task_title" : "ادخل اسم المهمة",
+"please_enter_task_title" : "رجاء ادخل اسم المهمة",
+"enter_task_description" : "ادخل الوصف",
+"please_enter_task_description" : "رجاء ادخل الوصف",
+"select_date" : "اختر الوقت",
+"add" : "اضف",
+"delete" : "حذف",
+"language" : "اللغة",
+"english" : "الأنجليزية",
+"arabic" : "العربية",
+"theme" : "النمط",
+"dark_mode" : "النمط الليلي",
+"light_mode" : "النمط النهاري"
+}
